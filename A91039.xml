@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings against Sir Thomas Armstrong knight At the kings Bench-Bar Westminster on Saturday the 14th of June 1684. In order to an award of execution of death, upon attainder of high-treason by out-lawry, for conspiring the death of the King, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91039</idno><idno type="EEBO-CITATION">99895849</idno>
+  <idno type="VID">153495</idno>
+  <idno type="EEBO-PROQUEST">2240917778</idno>
+  
+            <idno type="STC">Wing P3547</idno>
+            <idno type="STC">ESTC R226719</idno>
+            <idno type="PROQUEST">99895849</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895849e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153495)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings against Sir Thomas Armstrong knight At the kings Bench-Bar Westminster on Saturday the 14th of June 1684. In order to an award of execution of death, upon attainder of high-treason by out-lawry, for conspiring the death of the King, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for A. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Armstrong, Thomas, --  Sir, 1624?-1684 --  Early works to 1800.</term>
+               <term type="topical_term">Rye House Plot, 1683 --  Early works to 1800.</term>
+               <term type="topical_term">Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153495:1"/>
+            <head>THE PROCEEDINGS AGAINST Sir Thomas ARMSTRONG Knight.</head>
+            <opener>
+               <dateline>At the Kings Bench-Bar <hi>Westminster</hi>
+                  <date>on Saturday the <hi>14th</hi> of <hi>June 1684.</hi>
+                  </date>
+               </dateline> In order to an award of Execution of Death, upon Attainder of <hi>HIGH-TREASON</hi> by Out-lawry, for Conspiring the Death of the King, <hi>&amp;c.</hi>
+            </opener>
+            <p>DIvers of the Conspirators against His Majesties sacred Life, and the Established Government upon the Dis<g ref="char:EOLhyphen"/>covery of the late Plot flying from Justice, and up<g ref="char:EOLhyphen"/>on being commanded by His Majesties Proclamation, to Sur<g ref="char:EOLhyphen"/>render themselves; into the hands of the Majestrate, upon their refusal or delaying, so to do the Kings Attorney Ge<g ref="char:EOLhyphen"/>neral, upon an Indictment of High Treason found against them in <hi>London,</hi> proceeded to process of out-lawry, which was enter'd up according to Law, and they thereby attainted of the Treason specified in the Indictment: Amongst whom was Sir <hi>Thomas Armstrong</hi> taken, in <hi>Holland;</hi> upon leave granted by the States General, at the request of His Maje<g ref="char:EOLhyphen"/>sties Envoy extraordinary &amp;c. Who being brought over in one of His Majesties Yates, was carryed before the Right Honourable <hi>Sidney Godolphin</hi> Esq; one of His Majesties Prin<g ref="char:EOLhyphen"/>cipal Secretaries of State; and after some examination com<g ref="char:EOLhyphen"/>mitted to <hi>Newgate,</hi> where he remained till this day, when with a strong Guard, he was brought to the Kings Bench Bar <hi>Westminster,</hi> and the Court being set after divers mo<g ref="char:EOLhyphen"/>tions relating to private Affairs, Mr. Attorney General mov<g ref="char:EOLhyphen"/>ed on the behalf of the King, that seeing the Prisoner had been attainted of High Treason by out-lawry, for conspiring the Death of the King &amp;c. Execution might be awarded against him, whereupon the Warrant of Commitment was
+<pb facs="tcp:153495:2"/>read, and after that he was commanded to hold up his Hand, when as the Clerk of the Crown asked him, that seeing he the said Sir <hi>Thomas Armstrong</hi> Knight, had been found Guilty upon an Indictment in <hi>London</hi> of High Trea<g ref="char:EOLhyphen"/>son, and thereupon stood attainted of the said Treason by out-lawry, what he could say for himself, why Execution ac<g ref="char:EOLhyphen"/>cording to Law should not be awarded against him, or to this effect, to which he answered, that he was beyond the Seas, and knew not of the Prosecution, adding that he was present within the Twelve month, specified by an Act of Parliament, for surrender in case of a Proclamation for High Treason <hi>&amp;c.</hi> desiring the Statute might be read, which was accordingly done, but it not appearing, he had surrendered himself nor was inclined so to do, the Court told him he was not comprehended within the benefit of that Statute, yet he argued that, seeing he was in the hands of Justice, within the time he ought to have the benefit thereof, and be suffered to have a Tryal, desiring that Council might be assigned him to argue the Point, but being over-ruled in that demand, he alledged that a Person under the same cir<g ref="char:EOLhyphen"/>cumstances, had by the consent of Mr. Attorney General the offer of a Tryal, to which the Court replyed, it was the Kings pleasure and mercy, and that the King knew how and when best to dispose of it, and that if it was his plea<g ref="char:EOLhyphen"/>sure so to order, (God forbid) but he should have the bene<g ref="char:EOLhyphen"/>fit of it, or if it was His Majesties pleasure to pardon Sir <hi>Thomas Armstrong</hi> the Court would acquiess therein, but no such mercy or indulgence appearing, it was the duty of the Court to award Execution <hi>&amp;c.</hi> Then Captain <hi>Richardson</hi> being demanded what days were usual for Execution, he answered, <hi>Wednesdays</hi> and <hi>Frydays,</hi> whereupon it was order<g ref="char:EOLhyphen"/>ed, that he should be Executed on <hi>Fryday</hi> next, and till then the Prisoner remanded to the Prison from whence he came, but he desiring that he might be further heard, it was granted, whereupon he required, that he might have the Benefit of the Law &amp;c. But not urging any material point pertinent to the matter in hand, he was answered, that he should have the Benefit of the Law, and thereupon, Captain <hi>Richardson</hi> was charged to see him Executed accord<g ref="char:EOLhyphen"/>ing to Law. Then Mr. Attorney Informed the Court, in part of the Evidence against the Prisoner, but was answer<g ref="char:EOLhyphen"/>ed, that the Court could not take notice of any thing in that nature, but what was before them: So that in fine, the Prisoner was reconveyed to <hi>Newgate,</hi> in order to his Execu<g ref="char:EOLhyphen"/>tion on <hi>Fryday</hi> next.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Banks.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
